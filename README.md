@@ -9,7 +9,7 @@ This repository contains my **resume** and serves as a quick portfolio reference
 
 ## Education
 - **B.Tech in Computer Science Engineering (AI & ML)** – VIT Bhopal University (2023 – Present)  
-  GPA: 8.32/10  
+  GPA: 8.13/10  
 
 ---
 
@@ -22,6 +22,11 @@ This repository contains my **resume** and serves as a quick portfolio reference
 ---
 
 ## Projects
+- **TalentBot: TalentScout AI Hiring Assistant** - [GitHub](https://github.com/maihun-rsc/TalentScout-s-AI-Powered-Hiring-Assistant)
+Built an LLM-powered hiring assistant using prompt engineering and context-aware pipelines (RAG-based architecture) to automate the initial screening process for candidates seeking technology placements.
+The assistant dynamically generates technical questions tailored explicitly to the candidate's reported Tech Stack to assess their proficiency. 
+Created Dynamic AI Personas | Lani, Clara, and Malik | for the user to choose their interviewer from the main menu
+
 - **Legal Document Sentiment Analyzer (NLP & Transformers)** – [GitHub](https://github.com/maihun-rsc/legal-sentiment-analysis-initial)  
   Transformer-based system to analyze legal documents for sentiment and risk scoring. Applied embeddings + prompt engineering. Streamlit dashboard for real-time visualization.  
 
@@ -37,9 +42,9 @@ This repository contains my **resume** and serves as a quick portfolio reference
 ---
 
 ## Certifications
-- **AWS Academy Graduate** – Cloud Foundations  
-- **AWS Academy Graduate** – Machine Learning Foundations  
-- **GenAI using IBM Watsonx (IBM CEP)**  
+- **GenAI using IBM Watsonx** - [IBM CEP](https://courses.adroitprolearn.skillsnetwork.site/certificates/a5e7d1eded0946539ffb741855aa5f6e)
+- **Google IT Support Certificate** - [Google](https://www.credly.com/badges/ebe0f454-f69b-4be3-bc0a-45f578c0d1e9/public_url}) % [cite: 25]
+- **AWS Academy Graduate - Machine Learning Foundations** - [AWS (via Credly)](https://www.credly.com/badges/9beca44e-51a8-48a4-9c4f-65f888a67cb8/public_url)  
 
 ---
 
@@ -51,4 +56,4 @@ This repository contains my **resume** and serves as a quick portfolio reference
 ---
 
 *If you’re a recruiter or collaborator, feel free to reach out!*  
-**Email:** rananjaychauhan93@gmail.com | **+91-79878-72461**
+**Email:** rjchauhan.work@gmail.com | **+91-79878-72461**

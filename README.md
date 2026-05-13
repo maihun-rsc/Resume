@@ -14,10 +14,10 @@ This repository contains my **resume** and serves as a quick portfolio reference
 ---
 
 ## Technical Skills
-- **Languages:** Python, Java, C/C++, SQL, JavaScript, HTML, CSS  
-- **AI/ML & Generative AI:** Hugging Face Transformers, Prompt Engineering, Retrieval-Augmented Generation (RAG), Embeddings  
-- **Frameworks & Tools:** TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, NLTK, Flask, Streamlit, Gradio  
-- **Other Tools:** GitHub, Jupyter, MS Excel  
+- **Programming Languages:** Python, C/C++, Java, JavaScript, HTML, CSS, SQL (MySQL), NoSQL (JSON)
+- **Generative AI & LLMs:** Hugging Face Transformers, Prompt Engineering, RAG, Embeddings
+- **ML & Data Tools:** TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost, LightGBM, OpenCV, NLTK 
+- **Others:** Git, GitHub, Django, Flask, Streamlit, Jupyter Notebooks, WSL/Linux, Bash, Tableau, Power BI
 
 ---
 

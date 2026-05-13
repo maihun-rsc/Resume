@@ -23,9 +23,9 @@ This repository contains my **resume** and serves as a quick portfolio reference
 
 ## Projects
 - **TalentBot: TalentScout AI Hiring Assistant** - [GitHub](https://github.com/maihun-rsc/TalentScout-s-AI-Powered-Hiring-Assistant)
-Built an LLM-powered hiring assistant using prompt engineering and context-aware pipelines (RAG-based architecture) to automate the initial screening process for candidates seeking technology placements.
-The assistant dynamically generates technical questions tailored explicitly to the candidate's reported Tech Stack to assess their proficiency. 
-Created Dynamic AI Personas | Lani, Clara, and Malik | for the user to choose their interviewer from the main menu
+  Built an LLM-powered hiring assistant using prompt engineering and context-aware pipelines (RAG-based architecture) to automate the initial screening process for candidates seeking technology placements.
+  The assistant dynamically generates technical questions tailored explicitly to the candidate's reported Tech Stack to assess their proficiency. 
+  Created Dynamic AI Personas | Lani, Clara, and Malik | for the user to choose their interviewer from the main menu
 
 - **Legal Document Sentiment Analyzer (NLP & Transformers)** – [GitHub](https://github.com/maihun-rsc/legal-sentiment-analysis-initial)  
   Transformer-based system to analyze legal documents for sentiment and risk scoring. Applied embeddings + prompt engineering. Streamlit dashboard for real-time visualization.  
